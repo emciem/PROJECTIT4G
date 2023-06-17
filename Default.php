@@ -72,5 +72,6 @@
 <script src="<?= base_url()?>/assets/AdminLTE v3.2.0/dist/js/demo.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="<?= base_url()?>/assets/AdminLTE v3.2.0/dist/js/pages/dashboard.js"></script>
+<script src="<?= base_url()?>/assets/AdminLTE v3.2.0/js/orders.js"></script>
 </body>
 </html>

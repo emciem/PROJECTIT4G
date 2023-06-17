@@ -23,4 +23,13 @@ class Dashboard extends BaseController
     {
         return view('Events');
     }
+
+    public function getDashboard (){
+
+        $Orders = 50;
+        $array = [
+            'Orders' => $Orders,
+        ];
+        return $this->response->setJSON($array);
+    }
 }

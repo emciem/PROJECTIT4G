@@ -253,7 +253,7 @@
             <!-- small box -->
             <div class="small-box bg-danger">
               <div class="inner">
-                <h3>150</h3>
+                <h3 id="residents">0</h3>
 
                 <p>Barangay Residents</p>
               </div>
